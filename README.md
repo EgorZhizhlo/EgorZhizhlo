@@ -6,6 +6,8 @@
 <h1 align="center">Учебные проекты</h1>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/pizzeria_online">Сервис доставки Pizzeria Online</a> 
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/Task/tree/main">Техническое задание(Flask, Elasticsearch, Docker) на должность Python-разработчик</a> 
+<h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo">Telegram bot магазин никотиновой продукции SmokeMo</a> 
+<h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo">Telegram bot магазин цифровых товаров HayanShop</a> 
 
 <h1 align="center"><b>Технологический стэк</b></h1>
 
