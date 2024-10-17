@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут <a target="_blank" href="">Егор Жижло</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">🐍 Python Backend-разработчик</h2>
-<h2 align="center">Финансовый университет при Правительстве РФ <br>Прикладная математика и информатика</h2>
+<h2 align="center">Финансовый университет при Правительстве РФ<br<b>Бакалавриат</b>Бbr>Прикладная математика и информатика<br>2 курс</h2>
 
 <h1 align="center"><b>Учебные проекты</b></h1>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/pizzeria_online">Сервис доставки Pizzeria Online</a> 
