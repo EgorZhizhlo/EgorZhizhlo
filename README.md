@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">🐍 Python Backend-разработчик</h2>
 <h2 align="center">Финансовый университет при Правительстве РФ <br>Прикладная математика и информатика</h2>
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 
