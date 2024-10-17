@@ -5,7 +5,7 @@
 
 <h1 align="center">Учебные проекты</h1>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/pizzeria_online">Сервис доставки Pizzeria Online</a> 
-<h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/Task/tree/main">Техническое задание(Flask, Elasticsearch, Docker) для прохода на стажировку</a> 
+<h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/Task/tree/main">Техническое задание(Flask, Elasticsearch, Docker) на вакансию Python-разработчик</a> 
 
 <h1 align="center"><b>Технологический стэк</b></h1>
 
