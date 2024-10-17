@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут <a target="_blank" href="">Егор Жижло</a> 
+<h1 align="center">Привет, меня зовут <a target="_blank" href="https://github.com/EgorZhizhlo">Егор Жижло</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">🐍 Python Backend-разработчик</h2>
 <h2 align="center">Финансовый университет при Правительстве РФ<br>Бакалавриат<br>Прикладная математика и информатика</h2>
