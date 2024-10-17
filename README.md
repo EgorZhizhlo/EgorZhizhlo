@@ -3,8 +3,9 @@
 <h2 align="center">🐍 Python Backend-разработчик</h2>
 <h2 align="center">Финансовый университет при Правительстве РФ<br>Бакалавриат<br>Прикладная математика и информатика</h2>
 
-<h1 align="center"><b>Учебные проекты</b></h1>
+<h1 align="center">Учебные проекты</h1>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/pizzeria_online">Сервис доставки Pizzeria Online</a> 
+<h3 align="center"><a target="_blank" href="[https://github.com/EgorZhizhlo/pizzeria_online](https://github.com/EgorZhizhlo/Task/tree/main)">Техническое задание(Flask, Elasticsearch, Docker) для прохода на стажировку</a> 
 
 <h1 align="center"><b>Технологический стэк</b></h1>
 
