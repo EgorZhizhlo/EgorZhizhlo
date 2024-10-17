@@ -21,6 +21,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgorZhizhlo&theme=default)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgorZhizhlo&theme=default)
