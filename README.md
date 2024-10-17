@@ -4,7 +4,7 @@
 <h2 align="center">Финансовый университет при Правительстве РФ <br>Прикладная математика и информатика</h2>
 
 <header align="center"><b>Учебные проекты</b></header>
-<h3 align="center">Сервис доставки Pizzeria Online:  <b>https://github.com/EgorZhizhlo/pizzeria_online</b></h3>
+<h1 align="center" href="https://github.com/EgorZhizhlo/pizzeria_online"><a target="_blank">Сервис доставки Pizzeria Online</a> 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
