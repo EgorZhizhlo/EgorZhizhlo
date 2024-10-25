@@ -6,7 +6,7 @@
 
 <h1 align="center">Коммерческие и учебные проекты</h1>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/pizzeria_online">Сервис доставки Pizzeria Online</a>
-<h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/pizzeria_online">Онлайн чат в реальном времени(FastAPI(Websocket, кеширование), PostgreSQL, Redis, Docker)</a>
+<h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/FastAPI_Chat_Task">Онлайн чат в реальном времени(FastAPI(Websocket, кеширование), PostgreSQL, Redis, Docker)</a>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/IntershipTask">Техническое задание(Quart, работа с API ЦБ РФ, ASGI, Docker) на должность Python-разработчик</a> 
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/Task">Техническое задание(Flask, Elasticsearch, Docker) на должность Python-разработчик</a> 
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/important-project">Telegram bot магазин никотиновой продукции SmokeMo</a> 
