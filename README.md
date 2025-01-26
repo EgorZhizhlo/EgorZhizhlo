@@ -5,6 +5,7 @@
 <h2 align="center">Финансовый университет при Правительстве РФ<br>Бакалавриат<br>Прикладная математика и информатика</h2>
 
 <h1 align="center">Коммерческие и учебные проекты</h1>
+<h3 align="center"><a target="_blank" href="">⭐(Private)Асинхронная CRM платформа на FastApi, Postgres для группы компаний ООО Стандарт-С, ООО Импульс-Сервис и др.</a>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/pizzeria_online">Сервис доставки Pizzeria Online</a>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/FastAPI_Chat_Task">Онлайн чат в реальном времени(FastAPI(Websocket, кеширование), PostgreSQL, Redis, Docker)</a>
 <h3 align="center"><a target="_blank" href="https://github.com/EgorZhizhlo/MillionAgentsTask">Техническое задание(Сокращение URL на FastAPI c Docker, SQL и т.д) на должность Junior Backend разработчик (Python)</a>
