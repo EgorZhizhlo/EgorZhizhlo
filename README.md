@@ -33,22 +33,6 @@
 
 ---
 
-<h2 align="center"><b>📊 GitHub Stats</b></h2>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgorZhizhlo&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EgorZhizhlo&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgorZhizhlo&layout=compact&theme=default" />
-</p>
-
----
-
 <h4 align="center">
-  💬 Telegram: <a href="https://t.me/egorzhizhlo" target="_blank">@EgorZhizhlo</a>
+  💬 Telegram: <a href="https://t.me/EgorZhizhlo" target="_blank">@EgorZhizhlo</a>
 </h4>
