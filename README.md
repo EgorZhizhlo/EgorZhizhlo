@@ -4,7 +4,6 @@
 </h1>
 
 <h3 align="center">🐍 Python Backend Developer</h3>
-<h4 align="center">📧 Email: <a href="mailto:zhizhloegor_r@mail.ru">zhizhloegor_r@mail.ru</a></h4>
 <h4 align="center">
   🎓 Financial University under the Government of the Russian Federation<br>
   Bachelor’s Degree — Applied Mathematics and Computer Science
